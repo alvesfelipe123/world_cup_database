@@ -8,7 +8,7 @@ Este repositório contém um projeto de aprendizado focado em **SQL** e **script
 - Inserção de dados de times e partidas (2014-2018)
 - Consultas SQL de exemplo
 - Scripts Bash para automatizar a criação e manipulação do banco de dados
-- Arquivo `insert_data.sql` e `queries.sh` com exemplos práticos
+- Arquivos `insert_data.sh` e `queries.sh` com exemplos práticos
 
 ## 🛠 Tecnologias
 
