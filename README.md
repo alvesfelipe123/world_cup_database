@@ -28,12 +28,7 @@ O projeto foi desenvolvido como parte do aprendizado de:
 ## 🚀 Como usar
 
 1. Tenha o PostgreSQL instalado.
-2. Execute o script de criação do banco (se houver) ou use os comandos diretamente no `psql`.
-3. Popule o banco com `insert_data.sql`.
-4. Execute as consultas em `queries.sh` ou diretamente no terminal.
-
-```bash
-# Exemplo de execução do script principal (se existir)
-./worldcup.sh
+2. Popule o banco com `insert_data.sh`.
+3. Execute as consultas em `queries.sh` ou diretamente no terminal.
 
 
